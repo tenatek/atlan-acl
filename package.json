@@ -1,0 +1,17 @@
+{
+  "name": "atlan-acl",
+  "version": "0.1.0",
+  "description": "A plugin to enforce access control lists on Atlan routes.",
+  "main": "Acl.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-tenatek": "^2.0.0"
+  },
+  "dependencies": {
+    "aniame": "^5.0.0"
+  }
+}

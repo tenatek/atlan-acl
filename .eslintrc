@@ -1,0 +1,10 @@
+{
+  "extends": "tenatek",
+  "env": {
+    "jest": true,
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2017
+  }
+}
